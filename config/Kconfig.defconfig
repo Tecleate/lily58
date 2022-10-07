@@ -45,3 +45,4 @@ endchoice
 endif # LVGL
 
 endif
+
